@@ -1,5 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "Zarae's Library") (type "KiCad") (uri "C:/Users/Zarae/Downloads/Zarae's Library.pretty") (options "") (descr ""))
-	(lib (name "Zarae's Library") (type "KiCad") (uri "${KIPRJMOD}/Zarae's Library.pretty") (options "") (descr ""))
-)
