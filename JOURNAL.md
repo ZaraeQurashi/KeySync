@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvfsln3600vu01rp9hzonozl). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom MIDI keypad PCB that combines hardware design and music technology. Featuring mechanical switches, sliders, rotary encoders, NeoPixels, and capacitive touch to create a personalized MIDI controller for interactive music production.
+> A custom MIDI keypad PCB that combines hardware design and music technology. Featuring mechanical switches, sliders, rotary encoders, NeoPixels, and capacitive touch to create a personalized MIDI controller for interactive music production. Designed with homage to UNDERTALE with capacitive keys based off the 7 souls and unique art.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
